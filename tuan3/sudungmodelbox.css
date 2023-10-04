@@ -1,0 +1,11 @@
+div{ 
+    width: 5;
+    border: 25px solid greenyellow;
+    padding: 50px 25px;
+    margin: 25px;
+}
+pre{
+    background-color:rgb(185, 172, 155);
+    font-size: xxx-large;
+    color: greenyellow;
+}

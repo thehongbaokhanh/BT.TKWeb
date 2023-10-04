@@ -1,0 +1,46 @@
+.platform{
+    border-style: solid;
+    border-color: chocolate;
+    width: 500px;
+    height: 200px;
+}
+
+.circle{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+   
+}
+.green{
+    border-style: solid;
+    border-color: green;
+    position: relative;
+    left: 180px;
+    bottom:260px;
+}
+.blue{ 
+    border-style: solid;
+    border-color: blue;
+}
+.red{
+    border-style: solid;
+    border-color: red;
+    position: relative;
+    left: 240px;
+    bottom: 420px;
+}
+.black{
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 110px;
+    bottom: 210px;
+}
+.orange{
+    border-style: solid;
+    border-color: orange;
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+}
+

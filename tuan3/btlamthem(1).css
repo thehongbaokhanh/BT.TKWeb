@@ -1,0 +1,17 @@
+.platform{
+    padding-left: 5px;
+    box-shadow: 0px 0px 2px 2px blueviolet;
+}
+fieldset{
+    width: 100;
+
+}
+form{
+    width: 100;
+}
+.radio{
+    font-weight: 1000;
+}
+.color{
+    box-shadow: 0px 0px 2px 2px blueviolet;
+}
